@@ -1,4 +1,4 @@
-Convert youtube to mp
+Convert youtube to mp3
 
 pip install pytube
 pip install moviepy
