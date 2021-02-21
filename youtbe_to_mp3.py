@@ -39,7 +39,7 @@ class YoutubeToMp3:
 
 if __name__ == "__main__":
 	input_url = input("Youtube Link: ")
-	input_folder_name = "Music"
+	input_folder_name = "Music"  # change folder here
 	ytb = YoutubeToMp3(input_url)
 	ytb.create_folder_mp3(input_folder_name)
 	ytb.run()
