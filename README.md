@@ -5,4 +5,4 @@
 - pip install moviepy
 
 # 2.Run 
-- youtbe_to_mp3.py and paste url 
+- Run youtbe_to_mp3.py and paste url 
