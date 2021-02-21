@@ -1,5 +1,7 @@
-Convert youtube to mp3
+# Convert youtube to mp3
 
-pip install pytube
+# 1. Install module
+- pip install pytube
+- pip install moviepy
 
-pip install moviepy
+# 2.Run youtbe_to_mp3.py and paste url 
